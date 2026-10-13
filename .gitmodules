@@ -1,0 +1,3 @@
+[submodule "Qwen-Image-2.1"]
+	path = Qwen-Image-2.1
+	url = git@github.com:stteovo/Qwen-Image-2.1.git
